@@ -1,6 +1,6 @@
 {
   "name": "eldez-time",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "time zone picker",
   "main": "runtime.js",
   "scripts": {
